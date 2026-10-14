@@ -12,6 +12,6 @@
     {"id": "c8", "title": "정치와 법Ⅰ", "description": "민주주의와 정부 형태, 국가 기관과 지방 자치, 선거와 정치 참여, 국제 정치와 한반도", "available": true, "subject": "politics-law", "grade": "Ⅰ"},
     {"id": "c9", "title": "정치와 법Ⅱ", "description": "법의 이해와 헌법, 민법·가족법, 범죄와 형벌, 재판 절차, 노동법과 생활 속 법", "available": true, "subject": "politics-law", "grade": "Ⅱ"},
     {"id": "c10", "title": "윤리Ⅰ", "description": "윤리 이론과 생명·가족·사회 정의, 과학·정보·환경·문화, 평화와 공존의 실천 윤리", "available": true, "subject": "ethics", "grade": "Ⅰ"},
-    {"id": "c11", "title": "윤리Ⅱ", "description": "동서양 윤리 사상과 사회사상", "available": false, "subject": "ethics", "grade": "Ⅱ"}
+    {"id": "c11", "title": "윤리Ⅱ", "description": "인간관과 동양·한국·서양의 윤리 사상, 국가와 시민, 이상 사회와 사회사상", "available": true, "subject": "ethics", "grade": "Ⅱ"}
   ]
 }
