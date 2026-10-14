@@ -10,8 +10,8 @@
     {"id": "c6", "title": "지리Ⅰ", "description": "지도와 지역, 세계의 기후·지형, 인구·도시·자원, 기후 위기와 세계시민", "available": true, "subject": "geography", "grade": "Ⅰ"},
     {"id": "c7", "title": "지리Ⅱ", "description": "국토와 지형·기후, 인구와 다문화, 지역 이해, 미래 도시와 GIS", "available": true, "subject": "geography", "grade": "Ⅱ"},
     {"id": "c8", "title": "정치와 법Ⅰ", "description": "민주주의와 정부 형태, 국가 기관과 지방 자치, 선거와 정치 참여, 국제 정치와 한반도", "available": true, "subject": "politics-law", "grade": "Ⅰ"},
-    {"id": "c9", "title": "정치와 법Ⅱ", "description": "헌법·민법·형법·노동법 기초와 소송 절차", "available": false, "subject": "politics-law", "grade": "Ⅱ"},
-    {"id": "c10", "title": "윤리Ⅰ", "description": "생명·사회·과학·평화의 실천 윤리", "available": false, "subject": "ethics", "grade": "Ⅰ"},
+    {"id": "c9", "title": "정치와 법Ⅱ", "description": "법의 이해와 헌법, 민법·가족법, 범죄와 형벌, 재판 절차, 노동법과 생활 속 법", "available": true, "subject": "politics-law", "grade": "Ⅱ"},
+    {"id": "c10", "title": "윤리Ⅰ", "description": "윤리 이론과 생명·가족·사회 정의, 과학·정보·환경·문화, 평화와 공존의 실천 윤리", "available": true, "subject": "ethics", "grade": "Ⅰ"},
     {"id": "c11", "title": "윤리Ⅱ", "description": "동서양 윤리 사상과 사회사상", "available": false, "subject": "ethics", "grade": "Ⅱ"}
   ]
 }
