@@ -13,7 +13,7 @@ today = datetime.date.today()
 if "--today" in sys.argv:
     today = datetime.date.fromisoformat(sys.argv[sys.argv.index("--today") + 1])
 
-files = {p: open(p, encoding="utf-8").read() for p in glob.glob(os.path.join(root, "level1", "c*", "ch*", "*.json"))}
+files = {p: open(p, encoding="utf-8").read() for p in glob.glob(os.path.join(root, "level1", "c*", "ch*", "*.json")) + glob.glob(os.path.join(root, "level[23]", "*", "*", "*.json"))}
 due = 0
 for key, f in FACTS.items():
     checked = datetime.date.fromisoformat(f["checked"])
