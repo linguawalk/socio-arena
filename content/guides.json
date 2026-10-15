@@ -30,13 +30,13 @@
      "level": 3,
      "id": "korean-historiography",
      "title": "한국사학사·사료 읽기",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "korean-thematic",
      "title": "분야사(사상·경제·사회)",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -61,13 +61,13 @@
      "level": 3,
      "id": "regional-history",
      "title": "지역사(중국·일본·유럽·이슬람)",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "historiography",
      "title": "사학사",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -98,19 +98,19 @@
      "level": 3,
      "id": "sociological-theory",
      "title": "사회학 이론사",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "urban-family-labor",
      "title": "도시·가족·노동 사회학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "qualitative-research",
      "title": "질적 연구",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -135,19 +135,19 @@
      "level": 3,
      "id": "ethnography",
      "title": "민족지",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "cultural-theory",
      "title": "문화이론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "digital-culture",
      "title": "디지털 문화",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -179,13 +179,13 @@
      "level": 3,
      "id": "welfare-policy-law",
      "title": "사회복지정책·법제",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "welfare-practice",
      "title": "사회복지실천론",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -217,19 +217,19 @@
      "level": 3,
      "id": "cognitive-psych",
      "title": "인지심리학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "clinical-counseling",
      "title": "임상·상담심리학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "psychometrics",
      "title": "심리측정·연구방법",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -260,19 +260,19 @@
      "level": 3,
      "id": "urban-economic-geo",
      "title": "도시·경제지리",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "gis-remote-sensing",
      "title": "GIS·원격탐사",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "regional-planning",
      "title": "지역계획",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -297,19 +297,19 @@
      "level": 3,
      "id": "comparative-politics",
      "title": "비교정치",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "political-thought",
      "title": "정치사상",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "international-relations",
      "title": "국제관계론·외교사",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -335,13 +335,13 @@
      "level": 3,
      "id": "org-hr-finance",
      "title": "조직·인사·재무행정",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "policy-studies",
      "title": "정책학",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -372,25 +372,25 @@
      "level": 3,
      "id": "criminal-law",
      "title": "형법",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "administrative-law",
      "title": "행정법",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "commercial-labor-law",
      "title": "상법·노동법",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "procedure-law",
      "title": "소송법",
-     "available": false
+     "available": true
     }
    ]
   },
@@ -421,19 +421,19 @@
      "level": 3,
      "id": "ethics-applied",
      "title": "윤리학·응용윤리",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "epistemology-metaphysics",
      "title": "인식론·형이상학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "social-philosophy",
      "title": "정치·사회철학",
-     "available": false
+     "available": true
     }
    ]
   }
