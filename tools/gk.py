@@ -71,7 +71,9 @@ L1R = lambda c, n, title: {"kind": "web", "provider": "socio-arena 레벨1", "ti
 SCI = lambda c, title: {"title": f"sci-arena 레벨1 · {title}", "href": f"https://sci-arena.org/browse.html?c={c}"}
 MATH = lambda c, title: {"title": f"math-arena 레벨1 · {title}", "href": f"https://math-arena.org/browse.html?c={c}"}
 G2R = lambda t, s, u, title: {"kind": "web", "provider": "socio-arena 레벨2", "title": title, "url": f"guide.html?lv=2&t={t}&s={s}" + (f"&u={u}" if u else ""), "part": "함께 볼 단원"}
+G3R = lambda t, s, u, title: {"kind": "web", "provider": "socio-arena 레벨3", "title": title, "url": f"guide.html?lv=3&t={t}&s={s}" + (f"&u={u}" if u else ""), "part": "함께 볼 단원"}
 G2 = lambda t, s, title: {"title": f"레벨2 · {title}", "href": f"guide.html?lv=2&t={t}&s={s}"}
+G3 = lambda t, s, title: {"title": f"레벨3 · {title}", "href": f"guide.html?lv=3&t={t}&s={s}"}
 
 
 def book(provider, title):
@@ -83,6 +85,7 @@ def R(base, part):
 
 
 L2NOTE = "레벨 2 (전문대 수준, 학문 입문·개론). 목차 검증 기준: {}."
+L3NOTE = "레벨 3 (대학 수준, 전공 심화). 목차 검증 기준: {}. 레벨3은 단원당 학습 조언 1문단, 자가점검 3문항의 가벼운 형식이며 원전과 전공서를 직접 읽는 것을 전제로 합니다."
 
 
 # ---------------------------------------------------------------- 점검 정보(review)

@@ -29,3 +29,6 @@ ZASTROW = book("Cengage", "Zastrow · Kirst-Ashman, Understanding Human Behavior
 MYERS = book("시그마프레스", "Myers · DeWall, Psychology (번역본 『마이어스의 심리학』, 장 제목으로 표기)")
 ARONSON = book("탐구당 등", "Aronson, The Social Animal (번역본 『사회적 동물』)")
 KPA = {"kind": "web", "provider": "한국심리학회", "title": "한국심리학회 (심리학 분야·자격 안내)", "url": "https://www.koreanpsychology.or.kr/", "lang": "한국어"}
+CRESWELL = book("학지사 등", "Creswell · Poth, Qualitative Inquiry and Research Design (번역본 『질적 연구 방법론』, 장 제목으로 표기)")
+EMERSON = book("한울 등", "Emerson 외, Writing Ethnographic Fieldnotes (번역본 『민족지 현장 연구 노트 쓰기』)")
+IRB = {"kind": "web", "provider": "국가생명윤리정책원", "title": "국가생명윤리정책원 (기관생명윤리위원회·IRB 안내)", "url": "https://www.nibp.kr/", "lang": "한국어"}
